@@ -15,7 +15,7 @@ Súkromne sa zaoberám vývojom počítačových hier (postupne pracujem na náv
 🧭 Aktuálny projekt, resp. čo sa pripravuje?
 > Aktuálne pracujem na aktualizácii hry Sapexo 🎮.
 
-https://pypi.org/project/loglady
+
 ---
 📫 Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
 
