@@ -4,8 +4,7 @@ Ahoj 👋.
 
 Som začínajúci indie herný vývojár.
 
-Súkromne sa zaoberám vývojom počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k jednotlivým hrám ako aj dostupné aktualizácie pre už existujúce herné projekty) a menších aplikačných riešení (tieto používam hlavne v mojom zamestaní a to hlavne na zjednodušenie práce v jednotlivých projektoch). 
-
+Súkromne sa zaoberám vývojom počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k jednotlivým hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
 
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
