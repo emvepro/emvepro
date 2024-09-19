@@ -6,20 +6,29 @@ Som začínajúci indie herný vývojár.
 
 Súkromne sa zaoberám vývojom počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k jednotlivým hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
 
+🧰 
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
 |    1    | **Sapexo**   | Logická  |  1.4.0     | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
 |    2    | ???          |          |            |                                                      |
 
+🧭 Aktuálny projekt, resp. čo sa pripravuje?
 > Aktuálne pracujem na aktualizácii hry Sapexo 🎮.
 
-
+https://pypi.org/project/loglady
 ---
-Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
+📫 Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
 
 <!-- TO DO: Dalšie informácie pridám neskôr 
 ---
 > Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
+
+🛠️  💸
+👾  💎
+🧰  ⚠️
+📱  ☕️
+🔊  
+
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
