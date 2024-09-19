@@ -9,6 +9,7 @@ Súkromne sa zaoberám vývojom počítačových hier (postupne pracujem na náv
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
 |    1    | **Sapexo**   | Logická  |  1.4.0     | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
+|    2    | ???          |          |            |                                                      |
 
 > Aktuálne pracujem na aktualizácii hry Sapexo 🎮.
 
