@@ -27,7 +27,9 @@ Súkromne sa zaoberám vývojom počítačových hier (postupne pracujem na náv
 👾  💎
 🧰  ⚠️
 📱  ☕️
-🔊  
+🔊  🕵🏻
+💬  🛠️
+
 
 
 - [x] #739
@@ -44,6 +46,19 @@ A footnote can also have multiple lines[^2].
   This is a second line.
 
 
+
+
+Skúsenosti:
+- 🕵🏻 Aktívny prispievateľ do open-source projektov
+- ☁ Skúsenosti s cloudovými technológiami a službami
+- 🧑🏽 Softwarový inžinier s viac ako 2 ročnými skúsenosťami v rôznych technológiách
+- 🛠️ Znalosť technológií SAP vrátane ABAP, CPI, APIM, BTP, SAP Build
+- 💬 Opýtajte sa ma na softvérové ​​inžinierstvo, technológie SAP, otvorený zdroj, kybernetickú bezpečnosť a cloud computing
+- 🤔 Hľadanie príležitostí na prehĺbenie odborných znalostí v oblasti softvérového inžinierstva a prispievanie k pôsobivým projektom
+
+
+💻  Languages:
+C  C++  Python  Java  JavaScript  Php  HTML  CSS 
 
 
 > [!NOTE]
