@@ -4,21 +4,22 @@ Ahoj 👋.
 
 V súčasnosti s viac ako 18 ročnou odbornou praxou v oblasti logistiky, služieb a priemyslu, pracujem na pozícii SAP konzultant so zameraním na SAP MM modul a migráciu dát v S/4 a ECC použitím SAP Data Services. Mám bohaté skúsenosti s prácou na projektoch a to či už samostatne alebo ako súčasť väčšieho tímu (člen, alebo vedúci celého projektu).
 
-Bližšie informácie získate na mojej osobnej stránke https://www.mvolek.sk/ , alebo na mojom LinkedIn profile https://www.linkedin.com/in/volekm/.
+Podrobnejšie informácie nájdete na mojej osobnej stránke https://www.mvolek.sk/ , alebo na mojom LinkedIn profile https://www.linkedin.com/in/volekm/.
+
 
 A čo súkromne?
 
-Moje aktivity by som rozdelil do 3 oblastí.
+Moje aktivity by som rozdelil do 3 oblastí:
 
-### 🔳 Systém SAP
+#### 🔳 Systém SAP
 
 V roku 2020 som spustil blog, internetový vzdelávací projekt SAPERP so zameraním na začínajúcich používateľov podnikového informačného systému od spoločnosti SAP. Primárnou úlohou projektu, je pomôcť používateľom systému SAP R/3 a vyššie, v ich profesionálnom raste a postupne im tak umožniť získavať množstvo dôležitých vedomostí, ako aj zlepšiť možnosť uplatnenia na trhu práce.
 
-### 🔳 Aplikácie, nástroje,..
+#### 🔳 Aplikácie, nástroje,..
 
 Zaoberám sa vývojom rôznych nástrojov v programovacom jazyku Python.
 
-### 🔳 Počítačové hry
+#### 🔳 Počítačové hry
 
 Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k mojim hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
  
