@@ -4,6 +4,8 @@ Ahoj 👋.
 
 pracujem na pozícii SAP konzultant so zameraním na SAP MM modul a migráciu dát v S/4 a ECC použitím SAP Data Services.
 
+A čo súkromne?
+
 Súkromne sa zaoberám programovaním v jazyku Python a vývojom počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k jednotlivým hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
 
 🧰 
@@ -12,8 +14,8 @@ Súkromne sa zaoberám programovaním v jazyku Python a vývojom počítačovýc
 |    1    | **Sapexo**   | Logická  |  1.4.0     | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
 |    2    | ???          |          |            |                                                      |
 
-🧭 Aktuálny projekt, resp. čo sa pripravuje?
-> Aktuálne pracujem na aktualizácii hry Sapexo 🎮.
+🧭 Na čom aktuálne pracujem?
+> Pripravujem aktualizáciu hry Sapexo 🎮.
 
 
 ---
