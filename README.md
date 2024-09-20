@@ -2,9 +2,9 @@
 
 Ahoj 👋.
 
-Som začínajúci indie herný vývojár.
+pracujem na pozícii SAP konzultant so zameraním na SAP MM modul a migráciu dát v S/4 a ECC použitím SAP Data Services.
 
-Súkromne sa zaoberám vývojom počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k jednotlivým hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
+Súkromne sa zaoberám programovaním v jazyku Python a vývojom počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k jednotlivým hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
 
 🧰 
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
