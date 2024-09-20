@@ -6,16 +6,25 @@ pracujem na pozícii SAP konzultant so zameraním na SAP MM modul a migráciu d�
 
 A čo súkromne?
 
-Súkromne sa zaoberám programovaním v jazyku Python a vývojom počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k jednotlivým hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
+☕ Systém SAP
 
-🧰 
+V roku 2020 som spustil blog, internetový vzdelávací projekt SAPERP so zameraním na začínajúcich používateľov podnikového informačného systému od spoločnosti SAP. Primárnou úlohou projektu, je pomôcť používateľom systému SAP R/3 a vyššie, v ich profesionálnom raste a postupne im tak umožniť získavať množstvo dôležitých vedomostí, ako aj zlepšiť možnosť uplatnenia na trhu práce.
+
+🧰 Aplikácie, nástroje,..
+
+Zaoberám sa vývojom rôznych nástrojov v programovacom jazyku Python.
+
+🎮 Počítačové hry
+
+Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k mojim hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
+ 
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
 |    1    | **Sapexo**   | Logická  |  1.4.0     | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
 |    2    | ???          |          |            |                                                      |
 
-🧭 Na čom aktuálne pracujem?
-> Pripravujem aktualizáciu hry Sapexo 🎮.
+🧭 Na čom v oblasti hier aktuálne pracujem?
+> Pripravujem aktualizáciu hry Sapexo.
 
 
 ---
@@ -31,7 +40,6 @@ Súkromne sa zaoberám programovaním v jazyku Python a vývojom počítačovýc
 📱  ☕️
 🔊  🕵🏻
 💬  🛠️
-
 
 
 - [x] #739
