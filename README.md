@@ -14,7 +14,7 @@ Web: https://www.mvolek.sk/
 
 ## A čo súkromne?
 
-Moje aktivity by som rozdelil do 3 oblastí:
+Moje IT aktivity by som rozdelil do 3 oblastí:
 
 #### 🔳 Systém SAP (blog)
 
