@@ -41,6 +41,10 @@ Web: https://www.saperp.sk/sapexo/
 > Pripravujem aktualizáciu hry Sapexo.
 
 
+## A či budem využívať github na zverejnovanie zdrojových kódov?
+
+To je celkom dobrá otázka, možno neskôr keď budem mať viac času sa pomenovať obsahu tohto profilu..
+
 ---
 📫 Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
 
