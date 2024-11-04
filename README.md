@@ -37,7 +37,7 @@ Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem výv
 
 Web: https://www.saperp.sk/sapexo/
 
-🧭 Na čom v oblasti hier aktuálne pracujem?
+🧭 Na akom projekte v oblasti hier aktuálne pracujem?
 > Pripravujem aktualizáciu hry Sapexo a novú hru pre internetový projekt saperp.sk.
 
   
