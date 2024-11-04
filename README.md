@@ -40,7 +40,7 @@ Web: https://www.saperp.sk/sapexo/
 🧭 Na čom v oblasti hier aktuálne pracujem?
 > Pripravujem aktualizáciu hry Sapexo a novú hru pre internetový projekt saperp.sk.
 
-
+  
 
 ## A či budem využívať github na zverejnovanie zdrojových kódov?
 
