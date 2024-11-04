@@ -32,7 +32,7 @@ Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem výv
  
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
-|    1    | **Sapexo**   | Logická  |  1.4.1     | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
+|    1    | **Sapexo**   | 1.4.1    |  Logická   | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
 |    2    | ???          |          |            |                                                      |
 
 Web: https://www.saperp.sk/sapexo/
