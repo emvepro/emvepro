@@ -32,18 +32,20 @@ Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem výv
  
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
-|    1    | **Sapexo**   | Logická  |  1.4.0     | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
+|    1    | **Sapexo**   | Logická  |  1.4.1     | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
 |    2    | ???          |          |            |                                                      |
 
 Web: https://www.saperp.sk/sapexo/
 
 🧭 Na čom v oblasti hier aktuálne pracujem?
-> Pripravujem aktualizáciu hry Sapexo.
+> Pripravujem aktualizáciu hry Sapexo a novú hru pre internetový projekt saperp.sk.
+
 
 
 ## A či budem využívať github na zverejnovanie zdrojových kódov?
 
-To je celkom dobrá otázka, možno neskôr keď budem mať viac času sa pomenovať obsahu tohto profilu..
+To je celkom dobrá otázka, možno neskôr keď budem mať viac času sa povenovať obsahu tohto profilu..
+
 
 ---
 📫 Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
