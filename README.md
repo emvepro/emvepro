@@ -28,7 +28,7 @@ Zaoberám sa vývojom rôznych nástrojov v programovacom jazyku Python.
 
 #### 🔳 Počítačové hry
 
-Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (postupne pracujem na návrhu internetovej stránky, kde budú v budúcnosti k dispozícii všetky informácie k mojim hrám ako aj dostupné aktualizácie pre už existujúce herné projekty).
+Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (zatiaľ väčšinou sú to projekty pre mňa, kde sa učím rôzne postupy a podobne).
  
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
@@ -41,14 +41,15 @@ Web: https://www.saperp.sk/sapexo/
 > Pripravujem aktualizáciu hry Sapexo a novú hru pre internetový projekt saperp.sk.
 
   
-
-## A či budem využívať github na zverejnovanie zdrojových kódov?
-
-To je celkom dobrá otázka, možno neskôr keď budem mať viac času sa povenovať obsahu tohto profilu..
-
-
 ---
 📫 Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
+
+
+## A predsa, aby som nezabudol..
+Možno niekoho napadne otázka, či budem využívať github na zverejnovanie zdrojových kódov. Odpoveď je zatiaľ asi nie, ale možno neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám nejaké projekty..
+
+
+
 
 <!-- TO DO: Dalšie informácie pridám neskôr 
 ---
