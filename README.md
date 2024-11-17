@@ -24,7 +24,7 @@ Web: https://www.saperp.sk/
 
 #### 🔳 Aplikácie, nástroje,..
 
-Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄) v programovacom jazyku Python a C#.
+Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku Python a C#.
 
 #### 🔳 Počítačové hry
 
