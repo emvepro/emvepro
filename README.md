@@ -18,7 +18,7 @@ Moje IT aktivity by som rozdelil do 3 oblastí:
 
 #### 🔳 Systém SAP (blog)
 
-V roku 2020 som spustil blog, internetový vzdelávací projekt SAPERP so zameraním hlavne na začínajúcich používateľov podnikového informačného systému od spoločnosti SAP. Primárnou úlohou projektu, je pomôcť používateľom systému SAP R/3 a vyššie, v ich profesionálnom raste a postupne im tak umožniť získavať množstvo dôležitých vedomostí, ako aj zlepšiť možnosť uplatnenia na trhu práce.
+V roku 2020 som spustil blog, internetový vzdelávací projekt SAPERP so zameraním hlavne na začínajúcich používateľov podnikového informačného systému od spoločnosti SAP. Primárnou úlohou tohto projektu, je pomôcť používateľom systému SAP R/3 a vyššie, v ich profesionálnom raste a postupne im tak umožniť získavať množstvo dôležitých vedomostí, ako aj zlepšiť možnosť uplatnenia na trhu práce.
 
 Web: https://www.saperp.sk/
 
@@ -28,7 +28,7 @@ Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale
 
 #### 🔳 Počítačové hry
 
-Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (zatiaľ väčšinou sú to projekty pre mňa, kde sa učím rôzne postupy a podobne, alebo sa len tak zabávam - hlavne keď vytváram 3D scény v Unreal Engine s použitím Blueprint).
+Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (zatiaľ sú to väčšinou projekty pre mňa, kde sa učím rôzne postupy a podobne, alebo sa len tak zabávam - napríklad keď vytváram 3D scény v Unreal Engine s použitím Blueprint).
  
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
@@ -38,7 +38,7 @@ Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem výv
 Web: https://www.saperp.sk/sapexo/
 
 🧭 Na ktorom projekte v oblasti hier aktuálne pracujem?
-> Pripravujem aktualizáciu hry Sapexo a mám rozpracovaný návrh na novú hru.
+> Pripravujem aktualizáciu hry Sapexo a mám tiež rozpracovaný návrh na novú hru.
 
   
 ---
@@ -46,7 +46,7 @@ Web: https://www.saperp.sk/sapexo/
 
 
 ## A predsa, aby som nezabudol..
-Možno niekoho napadne otázka, či budem využívať github na zverejnovanie zdrojových kódov. Odpoveď je, že zatiaľ ešte nie, ale možno neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám nejaké projekty.
+Možno niekoho napadne otázka, či budem využívať github na to potstatné a to zverejnovanie zdrojových kódov. Odpoveď je, že zatiaľ ešte nie, ale pravdepodobne neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám nejaké zaujímavé projekty vrátane popisu.
 
 
 
