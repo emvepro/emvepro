@@ -46,7 +46,7 @@ Web: https://www.saperp.sk/sapexo/
 
 
 ## A predsa, aby som nezabudol..
-Možno niekoho napadne otázka, či budem využívať github na to podstatné a to zverejnovanie zdrojových kódov. Odpoveď je, že zatiaľ ešte nie, ale pravdepodobne neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám nejaké zaujímavé projekty vrátane popisu.
+Možno niekoho napadne otázka, či budem využívať github na to podstatné a to zverejnovanie zdrojových kódov. Odpoveď je, že zatiaľ ešte nie, ale pravdepodobne neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám niekoľko zaujímavých projektov vrátane popisu.
 
 
 
