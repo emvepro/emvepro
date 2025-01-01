@@ -38,7 +38,7 @@ Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem výv
 Web: https://www.saperp.sk/sapexo/
 
 🧭 Na ktorom projekte v oblasti hier aktuálne pracujem?
-> Pripravujem aktualizáciu hry Sapexo a mám tiež rozpracovaný návrh na novú hru.
+> Pripravujem aktualizáciu hry Sapexo, ktorú sprístupním na prevzatie, pravdepodobne niekedy začiatkom roku 2025. Súčasne mám tiež rozpracovaný návrh na novú hru.
 
   
 ---
@@ -77,8 +77,6 @@ A footnote can also have multiple lines[^2].
   This is a second line.
 
 
-
-
 Skúsenosti:
 - 🕵🏻 Aktívny prispievateľ do open-source projektov
 - ☁ Skúsenosti s cloudovými technológiami a službami
@@ -108,8 +106,6 @@ C  C++  Python  Java  JavaScript  Php  HTML  CSS
 > Advises about risks or negative outcomes of certain actions.
 
 -->
-
-
 
 
 <!--
