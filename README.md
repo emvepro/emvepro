@@ -49,8 +49,6 @@ Web: https://www.saperp.sk/sapexo/
 Možno niekoho napadne otázka, či budem využívať github na to podstatné a to zverejnovanie rôznych zdrojových kódov. Odpoveď je, že zatiaľ ešte nie, ale pravdepodobne neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám niekoľko zaujímavých projektov vrátane popisu.
 
 
-
-
 <!-- TO DO: Dalšie informácie pridám neskôr 
 ---
 > Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
@@ -61,7 +59,6 @@ Možno niekoho napadne otázka, či budem využívať github na to podstatné a 
 📱  ☕️
 🔊  🕵🏻
 💬  🛠️
-
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
@@ -88,7 +85,6 @@ Skúsenosti:
 
 💻  Languages:
 C  C++  Python  Java  JavaScript  Php  HTML  CSS 
-
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
