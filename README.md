@@ -2,7 +2,7 @@
 
 Ahoj 👋.
 
-V súčasnosti s viac ako 18 ročnou odbornou praxou v oblasti logistiky, služieb a priemyslu, pracujem na pozícii SAP konzultant so zameraním na SAP MM modul a migráciu dát v S/4 a ECC použitím SAP Data Services. Mám bohaté skúsenosti s prácou na projektoch a to či už samostatne alebo ako súčasť väčšieho tímu (člen, alebo vedúci celého projektu).
+V súčasnosti s viac ako 19 ročnou odbornou praxou v oblasti logistiky, služieb a priemyslu, pracujem na pozícii SAP konzultant so zameraním na SAP MM modul a v rámci roku 2024 aj v oblasti migrácie dát v S/4 a ECC použitím SAP Data Services. Mám bohaté skúsenosti s prácou na projektoch a to či už samostatne alebo ako súčasť väčšieho tímu (člen, alebo vedúci celého projektu).
 
 Podrobnejšie informácie nájdete na mojom LinkedIn profile [EN], alebo na mojej osobnej stránke. 
 
