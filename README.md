@@ -18,9 +18,17 @@ Moje IT aktivity by som rozdelil do 3 oblastí:
 
 #### 🔳 Systém SAP (blog)
 
-V roku 2020 som spustil blog, internetový vzdelávací projekt SAPERP so zameraním hlavne na začínajúcich používateľov podnikového informačného systému od spoločnosti SAP. Primárnou úlohou tohto projektu, je pomôcť používateľom systému SAP R/3 a vyššie, v ich profesionálnom raste a postupne im tak umožniť získavať množstvo dôležitých vedomostí, ako aj zlepšiť možnosť uplatnenia na trhu práce.
+V roku 2020 som spustil blog, online vzdelávací projekt SAPERP so zameraním hlavne na začínajúcich používateľov podnikového informačného systému od spoločnosti SAP. Primárnou úlohou tohto projektu, je pomôcť používateľom systému SAP R/3 a vyššie, v ich profesionálnom raste a postupne im tak umožniť získavať množstvo dôležitých vedomostí, ako aj zlepšiť možnosť uplatnenia na trhu práce.
 
 Web: https://www.saperp.sk/
+
+
+#### 🔳 Systém SAP (blog)
+
+Začiatkom roku 2025 som spustil nový blog, online vzdelávací projekt DATASPARK . Tentoraz zameranie smeruje na začínajúcich dátových vedcov s cieľom ponúknuť kvalitný obsah, ktorý im pomôže sa naučiť základné princípy, lepšie porozumieť dátam, vedieť s nimi pracovať a využiť ich na dosahovanie lepších výsledkov. 
+
+Web: https://www.dataspark.sk/
+
 
 #### 🔳 Aplikácie, nástroje,..
 
