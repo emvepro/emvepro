@@ -23,7 +23,7 @@ V roku 2020 som spustil blog, online vzdelávací projekt SAPERP so zameraním h
 Web: https://www.saperp.sk/
 
 
-#### 🔳 Systém SAP (blog)
+#### 🔳 Dátová veda (blog)
 
 Začiatkom roku 2025 som spustil nový blog, online vzdelávací projekt DATASPARK . Tentoraz zameranie smeruje na začínajúcich dátových vedcov s cieľom ponúknuť kvalitný obsah, ktorý im pomôže sa naučiť základné princípy, lepšie porozumieť dátam, vedieť s nimi pracovať a využiť ich na dosahovanie lepších výsledkov. 
 
