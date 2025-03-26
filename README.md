@@ -10,6 +10,7 @@ Web: https://www.linkedin.com/in/volekm/
 
 Web: https://www.mvolek.sk/
 
+📫 Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
 
 
 ## A čo súkromne?
@@ -50,7 +51,7 @@ Web: https://www.saperp.sk/sapexo/
 
   
 ---
-📫 Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
+
 
 
 ## A predsa, aby som nezabudol..
