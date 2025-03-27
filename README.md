@@ -36,6 +36,7 @@ Web: https://www.dataspark.sk/
 Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku Python a C#.
 
 
+
 #### 🔳 Počítačové hry
 
 Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (zatiaľ sú to väčšinou projekty pre mňa, kde sa učím rôzne postupy, alebo sa len tak zabávam - napríklad keď vytváram 3D scény v Unreal Engine s použitím Blueprint).
