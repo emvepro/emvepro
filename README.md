@@ -34,7 +34,6 @@ Web: https://www.dataspark.sk/
 #### 🔳 Aplikácie, nástroje,..
 
 Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku Python a C#.
-<details open>
 
 
 #### 🔳 Počítačové hry
@@ -49,7 +48,7 @@ Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem výv
 Web: https://www.saperp.sk/sapexo/
 
 🧭 Na ktorom projekte v oblasti hier aktuálne pracujem?
-> Pripravujem aktualizáciu hry Sapexo, ktorú sprístupním na prevzatie, pravdepodobne niekedy začiatkom roku 2025. Súčasne mám tiež rozpracovaný návrh na novú hru.
+> Pripravujem aktualizáciu hry Sapexo, ktorú sprístupním na prevzatie. Súčasne mám tiež rozpracovaný návrh na novú hru.
 
   
 ---
