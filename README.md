@@ -33,7 +33,7 @@ Web: https://www.dataspark.sk/
 
 #### 🔳 Aplikácie, nástroje,..
 
-Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku Python a C#.
+Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku Python  a C#.
 
 
 
@@ -70,6 +70,7 @@ Možno niekoho napadne otázka, či budem využívať github na to podstatné a 
 📱  ☕️
 🔊  🕵🏻
 💬  🛠️
+
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
@@ -113,7 +114,6 @@ C  C++  Python  Java  JavaScript  Php  HTML  CSS
 > Advises about risks or negative outcomes of certain actions.
 
 -->
-
 
 <!--
 **emvepro/emvepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
