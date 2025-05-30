@@ -34,7 +34,8 @@ Web: https://www.dataspark.sk/
 #### 🔳 Aplikácie, nástroje,..
 
 Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku Python  a C#.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 
 #### 🔳 Počítačové hry
@@ -58,6 +59,13 @@ Web: https://www.saperp.sk/sapexo/
 
 ## A predsa, aby som nezabudol..
 Možno niekoho napadne otázka, či budem využívať github na to podstatné a to zverejnovanie rôznych zdrojových kódov. Odpoveď je, že zatiaľ ešte nie, ale pravdepodobne neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám niekoľko zaujímavých projektov vrátane popisu.
+
+
+
+
+
+
+
 
 
 <!-- TO DO: Dalšie informácie pridám neskôr 
