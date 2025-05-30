@@ -1,6 +1,6 @@
 # O mne
 
-Ahoj 👋.
+👋 Ahoj.
 
 V súčasnosti s viac ako 19 ročnou odbornou praxou v oblasti logistiky, služieb a priemyslu, pracujem na pozícii SAP konzultant so zameraním na SAP MM modul a v rámci roku 2024 aj v oblasti migrácie dát v S/4 a ECC použitím SAP Data Services. Mám bohaté skúsenosti s prácou na projektoch a to či už samostatne alebo ako súčasť väčšieho tímu (člen, alebo vedúci celého projektu).
 
@@ -33,9 +33,7 @@ Web: https://www.dataspark.sk/
 
 #### 🔳 Aplikácie, nástroje,..
 
-Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku Python  a C#.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) a ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white).
 
 
 #### 🔳 Počítačové hry
@@ -65,10 +63,29 @@ Možno niekoho napadne otázka, či budem využívať github na to podstatné a 
 
 
 
-
-
-
 <!-- TO DO: Dalšie informácie pridám neskôr 
+
+
+
+Obrazky najdi na https://giphy.com/
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+
+
+![Visitors](https://komarev.com/ghpvc/?username=emvepro&label=Profile%20views&color=0e75b6&style=flat)
+
+![emvepro's GitHub stats](https://github-readme-stats.vercel.app/api?username=emvepro&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emvepro&layout=compact&theme=radical)
+
+
+
+
+
+
+
+
 ---
 > Ak máte akékoľvek otázky alebo návrhy, neváhajte ma kontaktovať na adrese email@mvolek.sk. 
 
