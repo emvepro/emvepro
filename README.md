@@ -2,6 +2,8 @@
 
 👋 Ahoj.
 
+Volám sa Miloš.
+
 Som profesionál s viac ako 19-ročnými skúsenosťami v oblasti SAP konzultácií so zameraním na logistiku, služby a priemysel. Kariéru som začal v roku 2006 ako Junior SAP podpora pre projekt Metro a postupne som získaval rozsiahle znalosti predovšetkým v oblasti SAP MM modulu, no počas rokov som si rozšíril skúsenosti aj s ďalšími SAP modulmi, optimalizáciou podnikových procesov, dennou podporou a školeniami pre koncových používateľov. Až do konca roku 2024 som sa aktívne venoval oblasti migrácie dát v prostredí S/4HANA a ECC s využitím nástroja SAP Data Services, čo mi umožnilo získať cenné skúsenosti s prácou na zložitých dátových úlohách a prepojení rôznych systémov. 
 
 Podrobnejšie informácie nájdete na mojom LinkedIn profile [EN], alebo na mojej osobnej stránke. 
