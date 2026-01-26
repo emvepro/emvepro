@@ -39,7 +39,8 @@ Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale
 #### 🔳 Počítačové hry
 
 Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier (zatiaľ sú to väčšinou projekty pre mňa, kde sa učím rôzne postupy, alebo sa len tak zabávam - napríklad keď vytváram 3D scény v Unreal Engine s použitím Blueprint a C++).
- 
+
+<!-- 
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
 |--------:|--------------|----------|------------| -----------------------------------------------------|
 |    1    | **Sapexo**   | 1.4.1    |  Logická   | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
@@ -50,7 +51,7 @@ Web: https://www.saperp.sk/sapexo/
 🧭 Na ktorom projekte v oblasti hier aktuálne pracujem?
 > Pripravujem aktualizáciu hry Sapexo, ktorú sprístupním na prevzatie. Súčasne mám tiež rozpracovaný návrh na novú hru.
 
-  
+  -->
 ---
 
 
