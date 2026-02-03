@@ -46,9 +46,9 @@ Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem výv
 |    1    | **Sapexo**   | 1.4.1    |  Logická   | Vzdelávacia počítačová hra k projektu www.saperp.sk  |
 |    2    | ???          |          |            |                                                      |
 
-Web: https://www.saperp.sk/sapexo/
+Web: https://www.saperp.sk/sapexo/   
 
-🧭 Na ktorom projekte v oblasti hier aktuálne pracujem?
+🧭 Na ktorom hernom projekte aktuálne pracujem?
 > Pripravujem aktualizáciu hry Sapexo, ktorú sprístupním na prevzatie. Súčasne mám tiež rozpracovaný návrh na novú hru.
 
   -->
