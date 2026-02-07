@@ -22,6 +22,7 @@ Moje IT aktivity by som rozdelil do 4 oblastí:
 #### 🔳 Systém SAP (blog)
 
 V roku 2020 som spustil blog, online vzdelávací projekt SAPERP so zameraním hlavne na začínajúcich používateľov podnikového informačného systému od spoločnosti SAP. Primárnou úlohou tohto projektu, je pomôcť používateľom systému SAP R/3 a vyššie, v ich profesionálnom raste a postupne im tak umožniť získavať množstvo dôležitých vedomostí, ako aj zlepšiť možnosť uplatnenia na trhu práce.
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 
 Web: https://www.saperp.sk/
 
@@ -29,6 +30,8 @@ Web: https://www.saperp.sk/
 #### 🔳 Dátová veda (blog)
 
 Začiatkom roku 2025 som spustil nový blog, online vzdelávací projekt DATASPARK . Tentoraz zameranie smeruje na začínajúcich dátových vedcov s cieľom ponúknuť kvalitný obsah, ktorý im pomôže sa naučiť základné princípy, lepšie porozumieť dátam, vedieť s nimi pracovať a využiť ich na dosahovanie lepších výsledkov. 
+![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 Web: https://www.dataspark.sk/
 
@@ -40,7 +43,17 @@ Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale
 
 #### 🔳 Počítačové hry
 
-Som začínajúci indie herný vývojár, vo voľnom čase sa venujem vývoju počítačových hier, alebo sa len tak zabávam tvorbou rôznych 3D scén v Unreal Engine 5 (BP/C++).
+Som začínajúci indie herný vývojár, vo voľnom čase sa venujem vývoju počítačových hier, alebo sa len tak zabávam tvorbou rôznych 3D scén.
+![Game Dev](https://img.shields.io/badge/Game_Development-FF6F00?logo=gamepad&logoColor=white)
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+
+![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)
 
 <!-- 
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
