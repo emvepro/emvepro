@@ -38,7 +38,7 @@ Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale
 
 #### 🔳 Počítačové hry
 
-Som začínajúci indie herný vývojár a teda vo voľnom čase sa venujem vývoju počítačových hier, alebo sa len tak zabávam napríklad keď vytváram 3D scény v Unreal Engine 5 (BP/C++).
+Som začínajúci indie herný vývojár, vo voľnom čase sa venujem vývoju počítačových hier, alebo sa len tak zabávam tvorbou rôznych 3D scén v Unreal Engine 5 (BP/C++).
 
 <!-- 
 | Poradie | Názov hry    |  Verzia  |  Typ hry   | Poznámka                                             |
