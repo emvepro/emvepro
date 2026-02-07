@@ -73,6 +73,9 @@ Možno niekoho napadne otázka, či budem využívať github na to podstatné a 
 
 
 
+<!--  Kolko ludi si poyrelo moj profil..
+![visitors](https://komarev.com/ghpvc/?username=emvepro)
+
 
 
 <!-- TO DO: Dalšie informácie pridám neskôr 
