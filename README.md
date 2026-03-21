@@ -48,7 +48,7 @@ Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to ale
 Som začínajúci indie herný vývojár, vo voľnom čase sa venujem vývoju počítačových hier, alebo sa len tak zabávam tvorbou rôznych 3D scén.
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-
+![Blueprint](https://img.shields.io/badge/Blueprint-313131)
 <!--
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
