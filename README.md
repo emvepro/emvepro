@@ -45,7 +45,7 @@ Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to apl
 
 #### 🔳 Počítačové hry
 
-Som začínajúci indie herný vývojár, vo voľnom čase sa venujem vývoju počítačových hier, alebo sa len tak zabávam tvorbou rôznych 3D scén.
+Som začínajúci indie herný vývojár, vo voľnom čase sa venujem tvorbe počítačových hier a práci s 3D grafikou, najmä návrhu a realizácii rôznych vizuálnych scén.
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white)
 ![Blueprint](https://img.shields.io/badge/Blueprint-313131)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
@@ -74,8 +74,7 @@ Web: https://www.saperp.sk/sapexo/
 
 
 ## A predsa, aby som nezabudol..
-Možno niekoho napadne otázka, či budem využívať github na to podstatné a to zverejnovanie rôznych zdrojových kódov. Odpoveď je, že zatiaľ ešte nie, ale pravdepodobne neskôr keď budem mať viac času sa povenovať obsahu tohto profilu, tak určite pridám niekoľko zaujímavých projektov vrátane popisu.
-
+Možno si niekto položí otázku, či plánujem využívať GitHub aj na jeho hlavnú funkciu a to zverejňovanie zdrojových kódov. Odpoveď zatiaľ znie nie, no do budúcna to určite plánujem. Keď budem mať viac času venovať sa obsahu profilu, rád pridám niekoľko zaujímavých projektov spolu s ich popisom.
 
 
 <!--  Kolko ludi si poyrelo moj profil..
