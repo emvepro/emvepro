@@ -40,7 +40,7 @@ Web: https://www.dataspark.sk/
 
 #### 🔳 Aplikácie, nástroje,..
 
-Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to aplikácie pre mňa, aby som si zjednodušil život pri rôznych pracovných zadaniach 😄 v mojom zamestnaní) v programovacom jazyku ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) a ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white).
+Zaoberám sa vývojom rôznych softvérových nástrojov (väčšinou sú to aplikácie pre mňa, aby som si zjednodušil 😄 život pri rôznych pracovných zadaniach v mojom zamestnaní) v programovacom jazyku ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) a ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white).
 
 
 #### 🔳 Počítačové hry
