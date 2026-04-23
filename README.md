@@ -6,7 +6,10 @@ Vitajte na moje stránke!
 
 
 
-Som profesionál s viac ako 20-ročnými skúsenosťami v oblasti SAP konzultácií so zameraním na logistiku, služby a priemysel. Kariéru som začal v roku 2006 ako Junior SAP podpora pre projekt Metro a postupne som získaval rozsiahle znalosti predovšetkým v oblasti SAP MM modulu, no počas rokov som si rozšíril skúsenosti aj s ďalšími SAP modulmi, optimalizáciou podnikových procesov, dennou podporou a školeniami pre koncových používateľov. Až do konca roku 2024 som sa aktívne venoval oblasti migrácie dát v prostredí S/4HANA a ECC s využitím nástroja SAP Data Services, čo mi umožnilo získať cenné skúsenosti s prácou na zložitých dátových úlohách a prepojení rôznych systémov. 
+Viac ako 30 rokov pôsobím v oblasti informačných technológií, pričom väčšinu svojej kariéry sa venujem podnikovým informačným systémom. Pomáham organizáciám optimalizovať podnikové procesy, efektívne pracovať s dátami a implementovať technologické riešenia s reálnym prínosom pre prax. V priebehu svojej kariéry som prešiel od používateľskej podpory až po realizáciu komplexných konzultačných a implementačných projektov v systéme SAP so zameraním najmä na logistiku a dátové procesy. V súčasnosti sa zameriavam na systém Helios iNuvio, kde zabezpečujem jeho administráciu, rozvoj a podporu používateľov. Svoje skúsenosti prepájam s dátovou vedou a vývojom. 
+
+Popri tom sa venujem aj vývoju hier v Unreal Engine (Blueprints, C++), kde prepájam technické a kreatívne zručnosti.
+
 
 Podrobnejšie informácie nájdete na mojom LinkedIn profile [EN], alebo na mojej osobnej stránke. 
 
