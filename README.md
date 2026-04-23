@@ -5,9 +5,9 @@
 Vitajte na moje stránke!
 
 
-
+<p style="text-align: justify;">
 Viac ako 30 rokov pôsobím v oblasti informačných technológií, pričom väčšinu svojej kariéry sa venujem podnikovým informačným systémom. Pomáham organizáciám optimalizovať podnikové procesy, efektívne pracovať s dátami a implementovať technologické riešenia s reálnym prínosom pre prax. V priebehu svojej kariéry som prešiel od používateľskej podpory až po realizáciu komplexných konzultačných a implementačných projektov v systéme SAP so zameraním najmä na logistiku a dátové procesy. V súčasnosti sa zameriavam na systém Helios iNuvio, kde zabezpečujem jeho administráciu, rozvoj a podporu používateľov. 
-
+</p>
 Podrobnejšie informácie nájdete na mojom LinkedIn profile [EN], alebo na mojej osobnej stránke. 
 
 Web: https://www.linkedin.com/in/volekm/
